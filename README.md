@@ -11,5 +11,5 @@ First we need to do:
 3.Save to a separate log processing file  
 4.Prepare data to be recorded in the database  
 
-And then we all connect it into one code, using a cycle to open each file
+And then we all connect it into one code, using a cycle to open each file  
 Also i used regular expressions with help regex101.com site
